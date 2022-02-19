@@ -1,5 +1,4 @@
 use futures::{stream, StreamExt};
-use tokio::sync::mpsc;
 use select::document::Document;
 use select::predicate::Name;
 use select::predicate::Class;
